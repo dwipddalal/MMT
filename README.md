@@ -1,6 +1,9 @@
 # MMT: A Multilingual and Multi-Topic Indian Social Media Dataset
 The sample dataset of our work on Multilingual and Multi-Topic Dataset has been posted here.
 
+MMT comprises 1,755,145 tweets with 135K tweets on an average for each topic.      
+MMT-LID comprises of 5,346 tweets.        
+
 
 # Table 1
 Consists of distribution of topics, subtopics, the number of tweets, and the average length of tweets in the MMT dataset.
