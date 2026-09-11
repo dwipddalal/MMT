@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: "If you use MMT or MMT-LID, please cite the published C3NLP 2023 paper. CITATION.bib preserves ACL Anthology's original BibTeX key."
+type: dataset
+title: "MMT: A Multilingual and Multi-Topic Indian Social Media Dataset"
+authors:
+  - family-names: Dalal
+    given-names: Dwip
+  - family-names: Srivastava
+    given-names: Vivek
+  - family-names: Singh
+    given-names: Mayank
+url: "https://github.com/dwipddalal/MMT"
+abstract: "Samples from MMT, an Indian social media dataset for multilingual topic modeling and language identification, including code-mixed text. The paper describes a 1,755,145-tweet corpus with 13 topics and 63 subtopics, and the 5,346-tweet MMT-LID subset with human-annotated language labels. This repository contains samples rather than the full collection."
+keywords:
+  - multilingual NLP
+  - Indian social media dataset
+  - language identification
+  - topic modeling
+  - code-mixing
+  - code-switching
+  - Hinglish
+  - Hindi-English
+  - Twitter dataset
+  - MMT-LID
+preferred-citation:
+  type: conference-paper
+  title: "MMT: A Multilingual and Multi-Topic Indian Social Media Dataset"
+  authors:
+    - family-names: Dalal
+      given-names: Dwip
+    - family-names: Srivastava
+      given-names: Vivek
+    - family-names: Singh
+      given-names: Mayank
+  editors:
+    - family-names: Dev
+      given-names: Sunipa
+    - family-names: Prabhakaran
+      given-names: Vinodkumar
+    - family-names: Adelani
+      given-names: David Ifeoluwa
+    - family-names: Hovy
+      given-names: Dirk
+    - family-names: Benotti
+      given-names: Luciana
+  collection-title: "Proceedings of the First Workshop on Cross-Cultural Considerations in NLP (C3NLP)"
+  publisher:
+    name: Association for Computational Linguistics
+  conference:
+    name: First Workshop on Cross-Cultural Considerations in NLP (C3NLP)
+    city: Dubrovnik
+    country: HR
+  year: 2023
+  month: 5
+  start: 47
+  end: 52
+  doi: "10.18653/v1/2023.c3nlp-1.6"
+  url: "https://aclanthology.org/2023.c3nlp-1.6/"
